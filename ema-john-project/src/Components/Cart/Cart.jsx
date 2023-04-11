@@ -5,7 +5,7 @@ const Cart = ({ cart }) => {
   // const cart = props.cart;  //option-1
   // const { cart } = props; //Destructuring option-2
   // function parameter a o destructuring kora jai 
-  // console.log(cart);
+  console.log(cart);
 
   let total = 0;
   let totalShipping = 0;
